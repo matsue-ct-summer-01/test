@@ -1,2 +1,1 @@
-# test
-テスト用
+puts "HelloWorld!"
